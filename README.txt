@@ -1,23 +1,28 @@
-==================================================
-Project Title: [Limited Angle CT Reconstruction]
-==================================================
-Enes Koşar - Bilkent Universtiy
-EEE 573 Medical Imaging - Course Project
+---
+title: "Limited Angle CT Reconstruction"
+author: "Enes Koşar - Bilkent University"
+output: html_document
+---
 
+# Project Title
+Limited Angle CT Reconstruction  
+Enes Koşar - Bilkent University  
+EEE 573 Medical Imaging - Course Project  
 
-Description:
--------------
-We leverage the winning method from the Helsinki Tomography Challenge 2022
-* Based on (Thomas Germer, Jan Robine, Sebastian Konietzny, Stefan Harmeling, and Tobias Uelwer. Limited-
-angle tomography reconstruction via deep end-to-end learning on synthetic data)
-* We analyze performance under extended angle constraints.
-* We test it on a realistic walnut dataset. 
+# Description
+We leverage the winning method from the Helsinki Tomography Challenge 2022:
 
+- Based on:  
+  *Thomas Germer, Jan Robine, Sebastian Konietzny, Stefan Harmeling, and Tobias Uelwer. Limited-angle tomography reconstruction via deep end-to-end learning on synthetic data.*
 
-Acknowledgments:
-----------------
-This project adapts code: 
-* from the GitHub repository [HTC2022-TUD-HHU-version-1] 
-* by [Thomas Germer1, Jan Robine2, Sebastian Konietzny2, Stefan Harmeling2, Tobias Uelwer2]. 
-* The original repository is available at https://github.com/99991/HTC2022-TUD-HHU-version-1.
+- Analyze performance under extended angle constraints.
+- Test on a realistic walnut dataset.
 
+# Acknowledgments
+This project adapts code:
+
+- From the GitHub repository: [HTC2022-TUD-HHU-version-1](https://github.com/99991/HTC2022-TUD-HHU-version-1)  
+- By: Thomas Germer, Jan Robine, Sebastian Konietzny, Stefan Harmeling, Tobias Uelwer.
+
+# License
+[Add your license details here, if applicable]
